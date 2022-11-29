@@ -42,7 +42,7 @@ npm run data:destroy
 ```
 
 ```
-Sample User Logins
+
 
 
 ```
