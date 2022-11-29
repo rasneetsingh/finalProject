@@ -44,11 +44,6 @@ npm run data:destroy
 ```
 Sample User Logins
 
-rasneet@admin.com (Admin)
-123456
-
-aman@customer.com (Customer)
-123456
 
 ```
 
